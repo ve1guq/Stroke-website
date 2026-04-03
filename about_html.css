@@ -1,0 +1,28 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+		a.wsp48fac406{ color:#0080FF; text-decoration: none} 
+		a.wsp48fac406:visited{ color:#0080FF; text-decoration: none} 
+		a.wsp48fac406:active{ color:#8018CB; text-decoration: underline} 
+		a.wsp48fac406:hover{ color:#0000A0; text-decoration: underline} 
+		a.wsp63851a2{ color:#FFFFFF; text-decoration: none} 
+		a.wsp63851a2:visited{ color:#FFFFFF; text-decoration: none} 
+		a.wsp63851a2:active{ color:#FFFFFF; text-decoration: underline} 
+		a.wsp63851a2:hover{ color:#C0C0C0; text-decoration: underline} 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_18dde19f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:11px; background-color:rgba(0, 0, 0, 0.8);  }
+#container_18dde19f_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:13pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#FFFFFF;  }
+#container_55c7cedb { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:700px; background:none;  }
+#container_55c7cedb_padding { margin: 30px; display: block;  }
+.textstyle4 { font-size:22pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#303030; line-height: 1.5;  }
+.textstyle5 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000; line-height: 1.5;  }
+.textstyle6 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#303030; line-height: 1.5;  }
+#img_508d5d2f { vertical-align: bottom; position:relative; display: inline-block; width:73%; background:none; height:auto;  }
+#container_6a11e94 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:26px; background-color:#C0C0C0;  }
+#container_6a11e94_padding { margin: 10px; display: block;  }
+.textstyle7 { text-align:right; }
+.textstyle8 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#1D1D1D;  }
